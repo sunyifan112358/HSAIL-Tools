@@ -38,7 +38,7 @@
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE
 // SOFTWARE.
-version 0:96:$full:$large; 
+version 0:96:$full:$large; // BRIG Object Format Version 0:1
 
 function &TestFunc()()
 {
